@@ -1,0 +1,23 @@
+PODS:
+  - AlicloudUTDID (1.1.0.19)
+  - AlipaySDK_No_UTDID (0.0.1):
+    - AlicloudUTDID
+
+DEPENDENCIES:
+  - AlipaySDK_No_UTDID (from `../`)
+
+SPEC REPOS:
+  https://github.com/aliyun/aliyun-specs.git:
+    - AlicloudUTDID
+
+EXTERNAL SOURCES:
+  AlipaySDK_No_UTDID:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlicloudUTDID: 79f509c3e997ef85fe307f8bfb2bb3be27f7e205
+  AlipaySDK_No_UTDID: e353c9eba9e3faca4526df85e593e96f5e311211
+
+PODFILE CHECKSUM: d3cff887bb55a9c827adc1af5b9ac306adc6b5d2
+
+COCOAPODS: 1.8.4
