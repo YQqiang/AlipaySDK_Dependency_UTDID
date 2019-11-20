@@ -1,6 +1,6 @@
 //
-//  AlipaySDK_No_UTDIDTests.m
-//  AlipaySDK_No_UTDIDTests
+//  AlipaySDK_Dependency_UTDIDTests.m
+//  AlipaySDK_Dependency_UTDIDTests
 //
 //  Created by oxape on 11/14/2019.
 //  Copyright (c) 2019 oxape. All rights reserved.

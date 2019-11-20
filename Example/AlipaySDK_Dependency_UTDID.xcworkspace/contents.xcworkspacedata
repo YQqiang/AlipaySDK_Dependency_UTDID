@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:AlipaySDK_No_UTDID.xcodeproj">
+      location = "group:AlipaySDK_Dependency_UTDID.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
