@@ -17,6 +17,10 @@ AlipaySDK_Dependency_UTDID is available through [CocoaPods](https://cocoapods.or
 it, simply add the following line to your Podfile:
 
 ```ruby
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/aliyun/aliyun-specs.git'
+source 'http://app.sungrow.cn:3000/iOS/SGSpecs.git'
+
 pod 'AlipaySDK_Dependency_UTDID'
 ```
 
