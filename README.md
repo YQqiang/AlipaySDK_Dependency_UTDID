@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/AlipaySDK_Dependency_UTDID.svg?style=flat)](https://cocoapods.org/pods/AlipaySDK_Dependency_UTDID)
 [![Platform](https://img.shields.io/cocoapods/p/AlipaySDK_Dependency_UTDID.svg?style=flat)](https://cocoapods.org/pods/AlipaySDK_Dependency_UTDID)
 
+[移动端支付集成回顾](http://yuqiangcoder.com/2019/11/20/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%94%AF%E4%BB%98%E9%9B%86%E6%88%90%E5%9B%9E%E9%A1%BE.html)
+
 ## Version
 
 | AlipaySDK_Dependency_UTDID | AlipaySDK-iOS |
