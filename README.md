@@ -12,6 +12,7 @@
 | AlipaySDK_Dependency_UTDID | AlipaySDK-iOS |
 | :-- | :-- |
 | 0.0.1 | v15.6.8 |
+| 0.0.2 | [v15.7.3](https://docs.open.alipay.com/54/104509) |
 
 ## Example
 
