@@ -1,6 +1,6 @@
 PODS:
   - AlicloudUTDID (1.1.0.19)
-  - AlipaySDK_Dependency_UTDID (0.0.1):
+  - AlipaySDK_Dependency_UTDID (0.0.2):
     - AlicloudUTDID
 
 DEPENDENCIES:
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AlicloudUTDID: 79f509c3e997ef85fe307f8bfb2bb3be27f7e205
-  AlipaySDK_Dependency_UTDID: c3522b532e3015202faba8bbfbf214f8be734da5
+  AlipaySDK_Dependency_UTDID: 28c26f7ef0c56f73a6c34e550a22d184a2ae7877
 
 PODFILE CHECKSUM: 309326c96b8f242efe262e61512e95bba42aeb06
 
