@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AlipaySDK_Dependency_UTDID'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = '适用于集成了阿里推送(AlicloudPush)，出现 UTDID 冲突的情况.'
 
 # This description is used to generate tags and improve search results.
