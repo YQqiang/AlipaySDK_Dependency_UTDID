@@ -13,6 +13,7 @@
 | :-- | :-- | :-- | :-- |
 | 0.0.1 | v15.6.8 | 1. 将AlipaySDK中的UIWebView更换为WKWebView。<br> 2. 修复与 UTDID 相关的 Crash。 | 2019-10-31 |
 | 0.0.2 | [v15.7.3](https://docs.open.alipay.com/54/104509) | 1. 支持 iOS Universal Link，提高支付稳定性。 | 2020-02-14 |
+| 0.0.3 | [v15.7.5](https://docs.open.alipay.com/54/104509) | 1. 稳定性和兼容性优化。 | 2020-05-11 |
 
 ## Example
 
